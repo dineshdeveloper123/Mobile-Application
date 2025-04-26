@@ -1,0 +1,303 @@
+[
+  {
+    "id": "1",
+    "sectionType":"Laptops",
+    "products": [
+      {
+        "itemName": "First Lap",
+        "photo":"lap1",
+        "price": "99999",
+        "review": "Good",
+        "warranty": "10 months",
+        "discount":"33%",
+        "about": "This laptop features a powerful processor, making it ideal for gaming and heavy multitasking. Its sleek design and lightweight build make it perfect for on-the-go professionals. Equipped with a high-resolution display, it offers vibrant colors and sharp images. The laptop also includes advanced cooling technology to prevent overheating during intense use. With long battery life, you can work or play without constantly worrying about recharging."
+      },
+      {
+        "itemName": "Second Lap",
+        "photo":"lap2",
+        "price": "11999",
+        "review": "Average",
+        "warranty": "12 months",
+        "discount":"33%",
+        "about": "With a long-lasting battery and durable build, this laptop is perfect for students. It supports all essential applications for schoolwork and casual use. Its lightweight design allows for easy portability, fitting into any backpack. The keyboard is designed for comfort, making typing for long periods a breeze. Overall, it's an economical choice that balances performance with affordability."
+      },
+      {
+        "itemName": "Third Lap",
+        "photo":"lap3",
+        "price": "49999",
+        "review": "Excellent",
+        "warranty": "24 months",
+        "discount":"36%",
+        "about": "This model offers a stunning display and high-quality audio, making it great for entertainment. It's equipped with the latest connectivity options, including multiple USB ports and HDMI output. The laptop's ergonomic design ensures comfortable use, even during extended periods. Additionally, it features integrated graphics for a smoother gaming experience. Whether you're streaming movies or working on projects, it provides versatility and performance."
+      },
+      {
+        "itemName": "Fourth Lap",
+        "photo":"lap4",
+        "price": "29999",
+        "review": "Good",
+        "warranty": "18 months",
+        "discount":"23%",
+        "about": "A budget-friendly option that doesn't compromise on performance. Perfect for browsing, streaming, and light gaming, this laptop meets everyday needs. It has a decent battery life and a bright display for clarity. The design is compact and user-friendly, suitable for both young users and adults. Overall, it’s a reliable choice for those looking for functionality without breaking the bank."
+      },
+      {
+        "itemName": "Fifth Lap",
+        "photo":"lap1",
+        "price": "15999",
+        "review": "Fair",
+        "warranty": "6 months",
+        "discount":"22%",
+        "about": "Ideal for basic tasks like word processing and web browsing, this laptop is an excellent entry-level choice for those new to computing. It features a simple interface and comes pre-installed with essential software. While it may not handle heavy applications, it’s perfect for students or casual users. The lightweight design ensures easy portability, and the battery life is satisfactory for daily tasks. A great starting point for anyone stepping into the digital world."
+      },
+      {
+        "itemName": "Sixth Lap",
+        "photo":"lap2",
+        "price": "74999",
+        "review": "Very Good",
+        "warranty": "15 months",
+        "discount":"22%",
+        "about": "A premium laptop with advanced features, including a high-resolution display and fast SSD storage. It's designed for professionals who need reliability and speed in their daily tasks. The laptop supports multitasking with ease, enabling you to run multiple applications without lag. Its sleek and modern design fits any professional setting. With exceptional build quality, it’s made to withstand the rigors of daily use."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "sectionType":"Watchs",
+    "products": [
+      {
+        "itemName": "First Watch",
+        "photo":"watch1",
+        "price": "999",
+        "review": "Good",
+        "warranty": "10 months",
+        "discount":"24%",
+        "about": "This stylish watch features a durable design and precise timekeeping, making it perfect for everyday wear. The strap is made from high-quality materials, ensuring comfort and longevity. With a sleek face and clear markings, reading the time is effortless. It's water-resistant, suitable for various activities without worry. Whether you're at work or out with friends, this watch adds a touch of elegance to any outfit."
+      },
+      {
+        "itemName": "Second Watch",
+        "photo":"watch2",
+        "price": "1299",
+        "review": "Excellent",
+        "warranty": "12 months",
+        "discount":"24%",
+        "about": "With a classic design and water resistance, this watch is suitable for both formal and casual occasions. Its multifunctional features include a stopwatch and date display, making it both stylish and practical. The comfortable strap ensures it fits securely on your wrist, ideal for all-day wear. The timeless aesthetic complements any attire, from suits to casual outfits. A perfect gift for watch enthusiasts or anyone who appreciates quality timepieces."
+      },
+      {
+        "itemName": "Third Watch",
+        "photo":"watch3",
+        "price": "799",
+        "review": "Fair",
+        "warranty": "8 months",
+        "discount":"25%",
+        "about": "A budget-friendly option that offers essential features and a comfortable fit for daily use. This watch is lightweight, making it ideal for everyday wear without feeling bulky. It includes a simple yet elegant design that suits various styles. Although it lacks advanced features, its reliability for telling time is commendable. Perfect for those looking for an affordable timepiece without unnecessary frills."
+      },
+      {
+        "itemName": "Fourth Watch",
+        "photo":"watch4",
+        "price": "1499",
+        "review": "Very Good",
+        "warranty": "18 months",
+        "discount":"26%",
+        "about": "This smartwatch includes fitness tracking capabilities and customizable watch faces, making it perfect for the active lifestyle. It syncs seamlessly with your smartphone, providing notifications and reminders at a glance. The battery life is impressive, lasting several days on a single charge. Its durable construction is designed to withstand workouts and outdoor activities. Ideal for fitness enthusiasts wanting to monitor their health and stay connected."
+      },
+      {
+        "itemName": "Fifth Watch",
+        "photo":"watch1",
+        "price": "1999",
+        "review": "Great",
+        "warranty": "24 months",
+        "discount":"27%",
+        "about": "Combining luxury and technology, this watch features premium materials and advanced smartwatch functionalities. It boasts an intuitive interface for easy navigation through apps and notifications. The stunning display enhances visibility in any lighting, ensuring you never miss an update. With fitness tracking and heart rate monitoring, it caters to health-conscious users. A truly sophisticated accessory that elevates both style and functionality."
+      },
+      {
+        "itemName": "Sixth Watch",
+        "photo":"watch2",
+        "price": "299",
+        "review": "Average",
+        "warranty": "6 months",
+        "discount":"27%",
+        "about": "An ideal entry-level watch that is stylish and functional, perfect for those looking to upgrade their accessory game. This watch features a simple design with clear markings, making it easy to read. Its lightweight nature ensures comfort during wear, whether at work or play. While it may lack advanced features, it serves its primary purpose well. A great choice for someone seeking a reliable and affordable watch."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "sectionType":"Mens Shirt",
+    "products": [
+      {
+        "itemName": "First Shirt",
+        "photo":"pic1",
+        "price": "899",
+        "review": "Good",
+        "warranty": "10 months",
+        "discount":"28%",
+        "about": "This stylish shirt is made from high-quality cotton, ensuring comfort and breathability for all-day wear. Its modern cut provides a flattering fit, suitable for various body types. Available in multiple colors, it easily matches with any outfit, from casual to formal. The fabric is soft against the skin and durable for long-lasting use. Ideal for both work and play, this shirt is a wardrobe staple for every season."
+      },
+      {
+        "itemName": "Second Shirt",
+        "photo":"pic2",
+        "price": "1299",
+        "review": "Excellent",
+        "warranty": "12 months",
+        "discount":"39%",
+        "about": "Featuring a modern fit and vibrant colors, this shirt is perfect for both casual outings and formal events. The fabric is wrinkle-resistant, ensuring you always look sharp without extra effort. With stylish details like contrasting buttons and stitching, it adds a unique touch to your look. Versatile enough to be worn tucked in or out, it suits any occasion. A must-have for those who appreciate fashion and comfort."
+      },
+      {
+        "itemName": "Third Shirt",
+        "photo":"pic3",
+        "price": "499",
+        "review": "Fair",
+        "warranty": "8 months",
+        "discount":"40%",
+        "about": "A budget-friendly option that combines style with comfort, making it ideal for everyday use. This shirt is easy to care for, making it perfect for busy lifestyles. Its classic design allows for easy pairing with jeans or chinos for a casual day out. The lightweight fabric ensures breathability, keeping you cool in warm weather. A practical choice for anyone looking for an affordable yet stylish shirt."
+      },
+      {
+        "itemName": "Fourth Shirt",
+        "photo":"pic4",
+        "price": "1599",
+        "review": "Very Good",
+        "warranty": "18 months",
+        "discount":"30%",
+        "about": "Crafted with premium materials, this shirt offers a sophisticated look and feel, perfect for business settings. The tailored fit enhances your silhouette, providing a sharp and professional appearance. Its breathable fabric ensures comfort throughout the day, even in warm office environments. Available in classic colors, it pairs well with suits or dress pants. Ideal for professionals who value style and quality."
+      },
+      {
+        "itemName": "Fifth Shirt",
+        "photo":"pic5",
+        "price": "799",
+        "review": "Great",
+        "warranty": "24 months",
+        "discount":"46%",
+        "about": "This casual shirt features a relaxed fit and trendy design, making it a must-have for your wardrobe. Its unique patterns and colors are perfect for expressing your personal style. The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Sixth Shirt",
+          "photo":"pic6",
+          "price": "399",
+          "review": "Average",
+          "warranty": "6 months",
+          "discount":"43%",
+          "about": "Basic shirt, versatile for layering.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "sectionType": "Mobiles",
+      "products": [
+        {
+          "itemName": "First Mobile",
+          "photo":"phone1",
+          "price": "99999",
+          "review": "Good",
+          "warranty": "10 months",
+          "discount":"34%",
+          "about": "Powerful for gaming, sleek design, vibrant display.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Second Mobile",
+          "photo":"phone2",
+          "price": "49999",
+          "review": "Very Good",
+          "warranty": "12 months",
+          "discount":"44%",
+          "about": "Stunning display, impressive battery life, great for media.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Third Mobile",
+          "photo":"phone3",
+          "price": "29999",
+          "review": "Average",
+          "warranty": "6 months",
+          "discount":"33%",
+          "about": "Budget-friendly, essential features for daily tasks.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Fourth Mobile",
+          "photo":"phone4",
+          "price": "69999",
+          "review": "Excellent",
+          "warranty": "24 months",
+          "discount":"33%",
+          "about": "Top-notch camera for photography, high-resolution display.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Fifth Mobile",
+          "photo":"phone1",
+          "price": "39999",
+          "review": "Good",
+          "warranty": "18 months",
+          "discount":"34%",
+          "about": "Good balance of performance and price, long-lasting battery.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Sixth Mobile",
+          "photo":"phone2",
+          "price": "15999",
+          "review": "Fair",
+          "warranty": "9 months",
+          "discount":"64%",
+          "about": "Entry-level, essential functionality, durable.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "sectionType": "Toys",
+      "products": [
+        {
+          "itemName": "First Toy",
+          "photo":"toy1",
+          "price": "199",
+          "review": "Good",
+          "warranty": "10 months",
+          "discount":"45%",
+          "about": "Promotes creativity, made from safe materials, suitable for all ages.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Second Toy",
+          "photo":"toy2",
+          "price": "299",
+          "review": "Very Good",
+          "warranty": "12 months",
+          "discount":"56%",
+          "about": "Interactive with music and lights, durable for active play.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Third Toy",
+          "photo":"toy3",
+          "price": "149",
+          "review": "Average",
+          "warranty": "6 months",
+          "discount":"23%",
+          "about": "Classic building set for STEM learning, compatible with other brands.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Fourth Toy",
+          "photo":"toy4",
+          "price": "499",
+          "review": "Excellent",
+          "warranty": "24 months",
+          "discount":"23%",
+          "about": "Remote-controlled car, robust design for outdoor play.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Fifth Toy",
+          "photo":"toy5",
+          "price": "249",
+          "review": "Good",
+          "warranty": "18 months",
+          "discount":"23%",
+          "about": "Plush toy for comfort, machine washable, safe for young kids.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        },
+        {
+          "itemName": "Sixth Toy",
+          "photo":"toy6",
+          "price": "99",
+          "review": "Fair",
+          "warranty": "9 months",
+          "discount":"13%",
+          "about": "Simple puzzle for critical thinking, travel-friendly.The fabric is soft and lightweight, ensuring maximum comfort during wear. Suitable for both daytime outings and evening events, it transitions easily between settings. An essential piece for those who love to stay stylish without sacrificing comfort."
+        }
+      ]
+    }
+]
+
